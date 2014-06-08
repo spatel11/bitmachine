@@ -1,0 +1,10 @@
+
+package: hscolour-1.20.3
+os: windows
+arch: i386
+compiler: ghc-7.6.3
+client: cabal-install-1.20.0.2
+dependencies: containers-0.5.0.0 base-4.6.0.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
